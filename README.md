@@ -1,4 +1,4 @@
-# hello-world2
+# hello-world
 ## Introduction to GitHub
 ### Intro to Markdown syntax
 
